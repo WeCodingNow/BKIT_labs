@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\Lab6_2\Lab6_2\bin\Debug\Lab6_2.exe.config
+C:\Users\Пользователь\source\repos\Lab6_2\Lab6_2\bin\Debug\Lab6_2.exe
+C:\Users\Пользователь\source\repos\Lab6_2\Lab6_2\bin\Debug\Lab6_2.pdb
+C:\Users\Пользователь\source\repos\Lab6_2\Lab6_2\obj\Debug\Lab6_2.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab6_2\Lab6_2\obj\Debug\Lab6_2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab6_2\Lab6_2\obj\Debug\Lab6_2.exe
+C:\Users\Пользователь\source\repos\Lab6_2\Lab6_2\obj\Debug\Lab6_2.pdb
