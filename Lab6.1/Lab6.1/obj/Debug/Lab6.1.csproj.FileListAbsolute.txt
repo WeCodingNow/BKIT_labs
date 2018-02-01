@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\Lab6.1\Lab6.1\bin\Debug\Lab6.1.exe.config
+C:\Users\Пользователь\source\repos\Lab6.1\Lab6.1\bin\Debug\Lab6.1.exe
+C:\Users\Пользователь\source\repos\Lab6.1\Lab6.1\bin\Debug\Lab6.1.pdb
+C:\Users\Пользователь\source\repos\Lab6.1\Lab6.1\obj\Debug\Lab6.1.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab6.1\Lab6.1\obj\Debug\Lab6.1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab6.1\Lab6.1\obj\Debug\Lab6.1.exe
+C:\Users\Пользователь\source\repos\Lab6.1\Lab6.1\obj\Debug\Lab6.1.pdb
